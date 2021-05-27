@@ -6,11 +6,18 @@
   "scripts": {
     "build:css": "tailwind build src/style.css -o public/style.css"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamclement1/My-Portfolio.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamclement1/My-Portfolio/issues"
+  },
+  "homepage": "https://github.com/iamclement1/My-Portfolio#readme",
   "dependencies": {
-    "live-server": "^1.2.1",
     "tailwindcss": "^2.1.2"
   }
 }
